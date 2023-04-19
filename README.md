@@ -29,7 +29,7 @@ ChatGPT는 다양한 분야에서 사용자들에게 정보를 제공하고 문�
 새로운 경험 제공
 위와 같은 ChatGPT의 영향력은 계속해서 증가할 것으로 예상됩니다. 
 ![FoKbYz3aEAEXsgu](https://user-images.githubusercontent.com/79897862/232948648-5797ee6e-9fde-4b28-bf5a-b000826cab6d.jpg)
-<a href="https://twitter.com/EconomyApp/status/1622029832099082241">https://twitter.com/EconomyApp/status/1622029832099082241</a>
+<a href="https://twitter.com/EconomyApp/status/1622029832099082241">출처</a>
 <hr>
 
 ## 목적
