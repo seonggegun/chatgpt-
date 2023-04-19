@@ -40,14 +40,14 @@ ChatGPT 감정분석 긍부정 프로젝트의 목적은 텍스트 데이터에�
 # 데이터소개
 <table style="width:100%">
   <tr>
-    <th>목적</th>
-    <th>Technique Description</th> 
-    <th>Tools/Packages Used</th>
+    <th>일</th>
+    <th>기술 설명</th> 
+    <th>사용한도구</th>
   </tr>
   <tr>
-    <td>Data Collection</td>
-    <td>Scraping tweets from Twitter </td> 
-    <td>snscrape</td>
+    <td>데이터 수집</td>
+    <td>kaggle에서 수집 </td> 
+    <td>kaggle</td>
   </tr>
 </table><br>
 
