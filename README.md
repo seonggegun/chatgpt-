@@ -35,4 +35,4 @@ ChatGPT는 다양한 분야에서 사용자들에게 정보를 제공하고, 문
 # 데이터소개
 https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker 에 있는 증상데이터를 인용하여 자가진단을 할수있는 페이지를 만들것입니다.
 <hr>
-## 
+## 결과
