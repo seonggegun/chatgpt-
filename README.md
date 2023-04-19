@@ -38,9 +38,6 @@ ChatGPT 감정분석 긍부정 프로젝트의 목적은 텍스트 데이터에�
 
 ## 방법 
 # 원시데이터소개
-<table style="width:100%">
-  <tr>
-    <td>
 
 # 데이터소개
 <table style="width:100%">
