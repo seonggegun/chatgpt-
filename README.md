@@ -55,8 +55,6 @@ ChatGPT 감정분석 긍부정 프로젝트의 목적은 텍스트 데이터에�
     <td>엑셀,코렙</td>
 </table><br>
 
-  https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker 에 있는 증상데이터를 인용하여 자가진단을 할수있는 페이지를 만들것입니다.
-
 <hr>
 
 ## 결과
