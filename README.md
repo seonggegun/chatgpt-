@@ -60,6 +60,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis
 </table><br>
 
 <hr>
-![rawdata](https://user-images.githubusercontent.com/79897862/234440990-caecd464-0787-4956-be4d-b68fbe294862.jpg)
+![원시데이터2](img width="80%" src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png")
+
 
 ## 결과
