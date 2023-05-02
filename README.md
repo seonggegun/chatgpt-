@@ -54,6 +54,8 @@ ChatGPT 긍부정 프로젝트의 목적은 텍스트 데이터에서 감성을 
 ## 방법 
 # 원시데이터소개
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis
+<hr>
+<img src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png">
 # 데이터소개
 <table style="width:100%">
   <tr>
@@ -71,9 +73,6 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis
     <td>중립감성 제거, 이모지, http/https등 링크제거</td>
     <td>엑셀,코렙</td>
 </table><br>
-
-<hr>
-<img src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png">
 
 import pandas as pd
 df = pd.read_csv('/content/sample_data/file3.csv',engine='python')
