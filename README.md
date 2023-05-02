@@ -64,6 +64,23 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis
 <hr>
 ![원시데이터2](img width="80%" src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png")
 
+import pandas as pd
+df = pd.read_csv('/content/sample_data/file3.csv',engine='python')
+df (넣을것 오류뜸)
+
+<table style="width:100%">
+  <tr>
+    <th>데이터</th>
+    <th>구분</th> 
+  </tr>
+  <tr>
+    <td>tweet</td>
+    <td>글 내용 </td>
+  </tr>
+  <tr>
+    <td>labels</td>
+    <td>0(good),1(bad)으로 나눔</td>
+</table><br>
 
 ## 결과
 
