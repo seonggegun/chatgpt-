@@ -73,7 +73,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis
 </table><br>
 
 <hr>
-![원시데이터2](img width="80%" src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png")
+<img src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png">
 
 import pandas as pd
 df = pd.read_csv('/content/sample_data/file3.csv',engine='python')
