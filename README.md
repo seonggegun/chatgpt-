@@ -98,7 +98,7 @@ df (넣을것 오류뜸)
     <td>0(good),1(bad)으로 나눔</td>
 </table><br>
 
-<img src =https://user-images.githubusercontent.com/79897862/235750530-4665d5cc-4993-4aa5-805e-5f4bc721917e.png width="300" height="300">
+<img src =https://user-images.githubusercontent.com/79897862/235750530-4665d5cc-4993-4aa5-805e-5f4bc721917e.png width="300" height="300"><br>
 
 <img src =https://user-images.githubusercontent.com/79897862/235750669-9777233b-ab98-425b-b90e-a9b6f1e9a5c7.pngwidth="300" height="300">
 
