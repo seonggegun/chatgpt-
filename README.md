@@ -52,10 +52,10 @@ ChatGPT 긍부정 프로젝트의 목적은 텍스트 데이터에서 감성을 
 <hr>
 
 ## 방법 
-1 : kaggle에서 ChatGPT tweet여론 데이터 수집
-2 : 데이터 전처리
-3 : 수정데이터 학습
-4 : 입력을 통해 긍부정 예측
+1 : kaggle에서 ChatGPT tweet여론 데이터 수집<br>
+2 : 데이터 전처리<br>
+3 : 수정데이터 학습<br>
+4 : 입력을 통해 긍부정 예측<br>
 # 원시데이터소개
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis
 <img src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png">
