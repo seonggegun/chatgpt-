@@ -1,5 +1,5 @@
-# Tweet을 활용한 ChatGPT 긍부정분석 <img src =https://user-images.githubusercontent.com/79897862/235725974-8031eb61-13dd-403f-9073-15529ad905af.jpg width="50" height="50">
-https://www.emoji.co.uk/files/emoji-one/animals-nature-emoji-one/1474-bird.png
+# Tweet을 활용한 ChatGPT 긍부정분석 <img src =https://www.emoji.co.uk/files/emoji-one/animals-nature-emoji-one/1474-bird.png width="50" height="50">
+
 
 ## 1. 개요
 - [배경](#배경)
