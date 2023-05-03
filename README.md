@@ -57,7 +57,9 @@ ChatGPT 긍부정 프로젝트의 목적은 텍스트 데이터에서 감성을 
 3 : 수정데이터 학습<br>
 4 : 입력을 통해 긍부정 예측<br>
 # 원시데이터소개
-https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis
+https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
+<img src= "https://user-images.githubusercontent.com/79897862/235815407-137068a4-29cc-4b9e-85f2-c94435081ba7.png"><br>
+
 <img src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png">
 
 <hr>
