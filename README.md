@@ -60,7 +60,8 @@ ChatGPT 긍부정 프로젝트의 목적은 텍스트 데이터에서 감성을 
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <img src= "https://user-images.githubusercontent.com/79897862/235815407-137068a4-29cc-4b9e-85f2-c94435081ba7.png"><br>
 
-<img src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png">
+<img src="https://user-images.githubusercontent.com/79897862/234441500-29bdcfc8-9a64-4e9a-98db-bffcee53c021.png"><br>
+2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다. 그 잘못된 2084개의 데이터도 제거했습니다.
 
 <hr>
 
