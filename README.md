@@ -23,7 +23,7 @@
 ## 배경 
 ChatGPT는 자연어 처리 분야에서 우수한 성능을 보이는 대화형 인공지능 모델로, 사용자와의 대화에서 자연스러운 언어 처리 능력을 가지고 만족도를 높일 수 있습니다. 그러나 완벽하지 않은 응답 생성과 사용자 요구사항의 완전한 이해 부족이 있을 수 있습니다. ChatGPT는 정보 제공, 문제 해결, 개인화된 서비스 제공, 새로운 경험 제공 등 다양한 영향력을 가지고 있으며, 인공지능 기술의 발전과 함께 그 영향력은 계속해서 증가할 것으로 예상됩니다.
 <p aling="right"><img src = https://user-images.githubusercontent.com/79897862/232948648-5797ee6e-9fde-4b28-bf5a-b000826cab6d.jpg width="300" height="300"></p>
-<p aling="center"><img src = https://user-images.githubusercontent.com/79897862/232948648-5797ee6e-9fde-4b28-bf5a-b000826cab6d.jpg width="300" height="300">
+<p aling="center"><img src = [https://user-images.githubusercontent.com/79897862/232948648-5797ee6e-9fde-4b28-bf5a-b000826cab6d.jpg](https://github.com/seonggegun/chatgpt-/assets/79897862/ef341a58-5c48-4362-b4d0-ad2b9056d4c7) width="300" height="300">
 이 사진은 현재 ChatGPT이용자수를 보여주는 사진입니다.
 <hr>
 
