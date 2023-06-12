@@ -84,7 +84,24 @@ df (넣을것 오류뜸)
     <td>0(good),1(bad)으로 나눔</td>
 </table><br>
 
-<img src =https://github.com/seonggegun/chatgpt-/assets/79897862/ae7ebbcc-eef7-4778-a0ea-52710b538a51>
+<img src =https://github.com/seonggegun/chatgpt-/assets/79897862/ae7ebbcc-eef7-4778-a0ea-52710b538a51><br>
+
+<table style="width:100%">
+  <tr>
+    <th>데이터</th>
+    <th>전처리 전</th> 
+    <th>전처리 후</th>
+  </tr>
+  <tr>
+    <td>good</td>
+    <td>55027 </td>
+    <td>52791</td>
+  </tr>
+  <tr>
+    <td>bad</td>
+    <td>106051</td>
+    <td>93755</td>
+</table><br>
 
 ## 결과
 
