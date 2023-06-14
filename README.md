@@ -58,9 +58,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>엑셀,코렙</td>
 </table><br>
 
-import pandas as pd
-df = pd.read_csv('/content/sample_data/file3.csv',engine='python')
-df (넣을것 오류뜸)
+전처리 과정 그림판으로 그려넣을것 ex)성찬
 
 <table style="width:100%">
   <tr>
