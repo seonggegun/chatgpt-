@@ -75,7 +75,7 @@ df (넣을것 오류뜸)
     <td>labels</td>
     <td>0(good),1(bad)으로 나눔</td>
 </table><br>
-이모지, 링크글, 잘못된 라벨링 제거 전처리
+이모지, 링크글, 잘못된 라벨링 제거 전처리<br>
 <img src =https://github.com/seonggegun/chatgpt-/assets/79897862/ae7ebbcc-eef7-4778-a0ea-52710b538a51><br>
 
 <table style="width:100%">
