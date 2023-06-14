@@ -48,7 +48,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 
 <hr>
 
-# 데이터소개
+# 데이터 전처리과정
 <table style="width:100%">
   <tr>
     <th>일</th>
