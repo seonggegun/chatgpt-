@@ -87,6 +87,7 @@ df (넣을것 오류뜸)
 <img src =https://github.com/seonggegun/chatgpt-/assets/79897862/ae7ebbcc-eef7-4778-a0ea-52710b538a51><br>
 
 <table style="width:100%">
+  이모지, 링크글, 잘못된 라벨링 제거 전처리
   <tr>
     <th>데이터</th>
     <th>전처리 전</th> 
