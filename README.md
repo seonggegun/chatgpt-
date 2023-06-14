@@ -33,7 +33,7 @@ ChatGPT는 자연어 처리 분야에서 우수한 성능을 보이는 대화형
 4 : 입력을 통해 긍부정 예측<br>
 # 원시데이터
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
-<img src= "https://user-images.githubusercontent.com/79897862/235815407-137068a4-29cc-4b9e-85f2-c94435081ba7.png">[출처2](#출처2)<br>
+<img src= "https://github.com/seonggegun/chatgpt-/assets/79897862/5a50b186-b5bf-46c9-a2e8-0c11b17861de">[출처2](#출처2)<br>
 
 <img src="https://github.com/seonggegun/chatgpt-/assets/79897862/1f72a8af-d8ba-4f4c-91a2-235d4a6904bc"><br>
 2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다.<br> 그 잘못된 2084개의 데이터도 제거했습니다.
