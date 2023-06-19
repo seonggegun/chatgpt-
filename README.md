@@ -104,6 +104,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>0(good),1(bad)으로 나눔</td>
 </table><br>
 ## 결과
+<img src = https://github.com/seonggegun/chatgpt-/assets/79897862/3fe73401-0086-48c6-83f5-3c7b0f6cd95c>
 
 <hr>
 
