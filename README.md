@@ -47,7 +47,8 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 
 ## 데이터 전처리과정
 
-이모지, 링크글, 잘못된 라벨링 제거 전처리<br>
+1. 엑셀로 neutral 데이터및 잘못된라벨링 삭제.
+2. 코렙을 이용하여 이모지, 태그글, 링크글 제거.<br>
 <img src = https://github.com/seonggegun/chatgpt-/assets/79897862/d9fa101f-f76b-49ec-aa2f-49c8d102ae36>
 
 
