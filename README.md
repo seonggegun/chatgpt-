@@ -39,7 +39,7 @@ ChatGPT는 자연어 처리 분야에서 우수한 성능을 보이는 대화형
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <img src= "https://github.com/seonggegun/chatgpt-/assets/79897862/5e65bc7f-c10e-4e17-bcc2-2f5484abbf72">[출처2](#출처2)<br>
 
-<img src="https://github.com/seonggegun/chatgpt-/assets/79897862/a200f602-4ce2-42ad-a16a-5bd9629a4391"><br>
+<img src=https://github.com/seonggegun/chatgpt-/assets/79897862/1eef6de5-a245-4f1d-9076-554219990a0a><br>
 2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다.<br> 그 잘못된 2084개의 데이터를 제거했습니다.
 
 <hr>
