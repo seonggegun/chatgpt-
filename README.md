@@ -35,7 +35,7 @@ ChatGPT는 자연어 처리 분야에서 우수한 성능을 보이는 대화형
 
 # 데이터
 
-# 원시데이터
+## 원시데이터
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <img src= "https://github.com/seonggegun/chatgpt-/assets/79897862/5e65bc7f-c10e-4e17-bcc2-2f5484abbf72">[출처2](#출처2)<br>
 
@@ -44,7 +44,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 
 <hr>
 
-# 데이터 전처리과정
+## 데이터 전처리과정
 <table style="width:100%">
   <tr>
     <th>일</th>
