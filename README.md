@@ -31,6 +31,10 @@ ChatGPT는 자연어 처리 분야에서 우수한 성능을 보이는 대화형
 2 : 데이터 전처리<br>
 3 : 수정데이터 학습<br>
 4 : 입력을 통해 긍부정 예측<br>
+<hr>
+
+# 데이터
+
 # 원시데이터
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <img src= "https://github.com/seonggegun/chatgpt-/assets/79897862/5e65bc7f-c10e-4e17-bcc2-2f5484abbf72">[출처2](#출처2)<br>
