@@ -47,6 +47,22 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 
 ## 데이터 전처리과정
 
+<table style="width:100%">
+  <tr>
+    <th>전처리과정</th>
+    <th>기술 설명</th> 
+    <th>사용한도구</th>
+  </tr>
+  <tr>
+    <td>데이터 수집</td>
+    <td>kaggle에서 수집 </td>
+    <td>kaggle</td>
+  </tr>
+  <tr>
+    <td>데이터 전처리</td>
+    <td>neutral, 이모지, 태그글, 링크글 제거</td>
+    <td>엑셀,코렙</td>
+</table><br>
 1. 엑셀로 neutral 데이터및 잘못된라벨링 삭제.
 2. 코렙을 이용하여 이모지, 태그글, 링크글 제거.<br>
 <img src = https://github.com/seonggegun/chatgpt-/assets/79897862/d9fa101f-f76b-49ec-aa2f-49c8d102ae36>
@@ -70,22 +86,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>93755</td>
 </table><br>
 
-<table style="width:100%">
-  <tr>
-    <th>일</th>
-    <th>기술 설명</th> 
-    <th>사용한도구</th>
-  </tr>
-  <tr>
-    <td>데이터 수집</td>
-    <td>kaggle에서 수집 </td>
-    <td>kaggle</td>
-  </tr>
-  <tr>
-    <td>데이터 전처리</td>
-    <td>중립감성 제거, 이모지, http/https등 링크제거</td>
-    <td>엑셀,코렙</td>
-</table><br>
+
 
 전처리 과정 그림판으로 그려넣을것 ex)성찬
 
