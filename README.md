@@ -78,8 +78,8 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>0(good),1(bad)으로 나눔</td>
 </table><br>
 이모지, 링크글, 잘못된 라벨링 제거 전처리<br>
-<img src =https://github.com/seonggegun/chatgpt-/assets/79897862/f0f58557-cf29-40ee-9bbe-065e1edbd5cf>
-<img src =https://github.com/seonggegun/chatgpt-/assets/79897862/184b8251-f305-41c8-8280-675b35a61bf4><br>
+<img src = https://github.com/seonggegun/chatgpt-/assets/79897862/d9fa101f-f76b-49ec-aa2f-49c8d102ae36>
+
 
 <table style="width:100%">
   
