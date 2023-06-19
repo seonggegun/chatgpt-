@@ -40,7 +40,8 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <img src= "https://github.com/seonggegun/chatgpt-/assets/79897862/5e65bc7f-c10e-4e17-bcc2-2f5484abbf72">[출처2](#출처2)<br>
 
 <img src=https://github.com/seonggegun/chatgpt-/assets/79897862/1eef6de5-a245-4f1d-9076-554219990a0a><br>
-2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다.<br> 그 잘못된 2084개의 데이터를 제거했습니다.
+2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다.<br> 그 잘못된 2084개의 데이터를 제거했고 neutral 데이터를 제거할것입니다.
+oldlength는 텍스트 리뷰 길이에 대한 도수분포표입니다. <br> #, http:~, @ 와같은 태그와 링크글을 삭제할것입니다.
 
 <hr>
 
