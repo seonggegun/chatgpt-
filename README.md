@@ -46,6 +46,29 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <hr>
 
 ## 데이터 전처리과정
+
+이모지, 링크글, 잘못된 라벨링 제거 전처리<br>
+<img src = https://github.com/seonggegun/chatgpt-/assets/79897862/d9fa101f-f76b-49ec-aa2f-49c8d102ae36>
+
+
+<table style="width:100%">
+  
+  <tr>
+    <th>데이터</th>
+    <th>전처리 전</th> 
+    <th>전처리 후</th>
+  </tr>
+  <tr>
+    <td>good</td>
+    <td>55027 </td>
+    <td>52791</td>
+  </tr>
+  <tr>
+    <td>bad</td>
+    <td>106051</td>
+    <td>93755</td>
+</table><br>
+
 <table style="width:100%">
   <tr>
     <th>일</th>
@@ -78,28 +101,6 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>labels</td>
     <td>0(good),1(bad)으로 나눔</td>
 </table><br>
-이모지, 링크글, 잘못된 라벨링 제거 전처리<br>
-<img src = https://github.com/seonggegun/chatgpt-/assets/79897862/d9fa101f-f76b-49ec-aa2f-49c8d102ae36>
-
-
-<table style="width:100%">
-  
-  <tr>
-    <th>데이터</th>
-    <th>전처리 전</th> 
-    <th>전처리 후</th>
-  </tr>
-  <tr>
-    <td>good</td>
-    <td>55027 </td>
-    <td>52791</td>
-  </tr>
-  <tr>
-    <td>bad</td>
-    <td>106051</td>
-    <td>93755</td>
-</table><br>
-
 ## 결과
 
 <hr>
