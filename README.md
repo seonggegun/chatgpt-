@@ -81,6 +81,8 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>엑셀,코렙</td>
   </tr>
 </table><br>
+<img src = https://github.com/seonggegun/chatgpt-/assets/79897862/ceb44f7b-25f1-4fe5-9d2e-1bc28b609479> <br>
+
 
 | count| `cleaned_tweets` | `labels` |
 | --- | --- | --- |
