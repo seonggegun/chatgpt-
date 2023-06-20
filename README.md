@@ -46,7 +46,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 | 3 | THRILLED to share that ChatGPT, our new model optimized for dialog, is now public, free, and accessible to everyone. https://t.co/dyvtHecYbd https://t.co/DdhzhqhCBX https://t.co/l8qTLure71 | good |
 | 4 | As of 2 minutes ago, @OpenAI released their new ChatGPT. \n\nAnd you can use it right now ?몙 https://t.co/VyPGPNw988 https://t.co/cSn5h6h1M1 |bad|
 |... | ... | ... |
-| 219289| Other Software Projects Are Now Trying to Replicate ChatGPT https://t.co/6TDsIUokBI | i love this speaker and love can take it anywh...	 |
+| 219289| Other Software Projects Are Now Trying to Replicate ChatGPT https://t.co/6TDsIUokBI | bad	 |
 | 219290 | I asked #ChatGPT to write a #NYE Joke for SEOs and it delivered: \n\nWhy did the SEO make a resolution to eat healthier in the New Year? \n\nBecause they wanted to rank higher on Google's search results for 'healthy habits'! #SEO #NewYear | good |
 | 219291 | chatgpt is being disassembled until it can only dissemble | bad	 |
 | 219292 | 2023 predictions by #chatGPT. Nothing really specific, just some trends from the past years. \nShould be around this topic, we will see in 364 days ?럦 https://t.co/4ZD3kpH0DC | bad |
@@ -77,6 +77,20 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 </table><br>
 1. 엑셀로 neutral 데이터및 잘못된라벨링 삭제.
 2. 코렙을 이용하여 이모지, 태그글, 링크글 제거.<br>
+| count| `cleaned_tweets` | `labels` |
+| --- | --- | --- |
+| 0 | try talking chatgpt new ai system optimized dialogue feedback help u improve | good |
+| 1 | thrilled share chatgpt new model optimized dialog public free accessible everyone	  | good |
+| 2 | launched chatgpt new ai system optimized dialogue | good |
+| 3 | chatgpt coming strong refusing help stalk someone agreeing providing someone waldo | good |
+| 4 | deployed thing helping build last couple month chatbot based gpt really excited share vl |good|
+|... | ... | ... |
+| 146543 | implementation rlhf reinforcement learning human feedback top palm architecture basically chatgpt palm via | bad	 |
+| 146544 | chatgpt banned stack overflow notice | bad |
+| 146545 | indie medium today chatgpt ai bias hunter biden twitter censorship result jeffrey sachs nato biggest threat peace ukraine glenn greenwald call medium buffalo snowstorm update | bad	 |
+| 146546 | software project trying replicate chatgpt | bad |
+| 146547 | chatgpt disassembled dissemble | bad	 |<br>
+
 <img src = https://github.com/seonggegun/chatgpt-/assets/79897862/d9fa101f-f76b-49ec-aa2f-49c8d102ae36>
 
 
