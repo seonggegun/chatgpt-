@@ -41,10 +41,10 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 | count| `tweets` | `labels` |
 | --- | --- | --- |
 | 0 | ChatGPT: Optimizing Language Models for Dialogue https://t.co/K9rKRygYyn @OpenAI | neutral |
-| 1 | Try talking with ChatGPT, our new AI system which is optimized for dialogue. Your feedback will help us improve it. https://t.co/sHDm57g3Kr	  | good	 |
-| 2 | neutral | it is so slow and lags find better option	 |
-| 3 | neutral | roller ball stopped working within months of m... |
-| 4 | neutral | i like the color and size but it few days out ...	 |
+| 1 | Try talking with ChatGPT, our new AI system which is optimized for dialogue. Your feedback will help us improve it. https://t.co/sHDm57g3Kr	  | good |
+| 2 | ChatGPT: Optimizing Language Models for Dialogue https://t.co/GLEbMoKN6w #AI #MachineLearning #DataScience #ArtificialIntelligence\n\nTrending AI/ML Article Identified &amp; Digested via Granola; a Machine-Driven RSS Bot by Ramsey Elbasheer https://t.co/RprmAXUp34 | neutral |
+| 3 | THRILLED to share that ChatGPT, our new model optimized for dialog, is now public, free, and accessible to everyone. https://t.co/dyvtHecYbd https://t.co/DdhzhqhCBX https://t.co/l8qTLure71 | good |
+| 4 | As of 2 minutes ago, @OpenAI released their new ChatGPT. \n\nAnd you can use it right now ?몙 https://t.co/VyPGPNw988 https://t.co/cSn5h6h1M1 |bad|
 |... | ... | ... |
 | 17335| positive | i love this speaker and love can take it anywh...	 |
 | 17336 | positive | i use it in my house easy to connect and loud ... |
