@@ -138,8 +138,11 @@ pandas~=1.4.4
 numpy~=1.24.2
 torch~=1.12.1
 transformers~=4.21.2
-scikit-learn~=1.2.2
-<img src = https://github.com/seonggegun/chatgpt-/assets/79897862/3fe73401-0086-48c6-83f5-3c7b0f6cd95c><br>
+scikit-learn~=1.2.2 <br> 
+
+워클라우드를 그려보았는데 CHATGPT 중복단어를 빼는법을 몰라서 CHATGPT가 너무많이 나왔다. <br>
+
+<img src = https://github.com/seonggegun/chatgpt-/assets/79897862/3fe73401-0086-48c6-83f5-3c7b0f6cd95c width="300" height="300" ><br>
 
 
 
