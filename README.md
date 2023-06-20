@@ -124,7 +124,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 ## 결과 
 <img src = https://github.com/seonggegun/chatgpt-/assets/79897862/9bc18832-b4cb-4fb4-b672-6cfd13552bf9><br>
 
-랜덤으로 1000개만 뽑아서 돌린결과 81퍼확률로 정확하게됨을 알수있습니다.<br>
+모델 긍부정예측도 결과 0.84로 높게나옴을 알수있습니다.<br>
 <img src = https://github.com/seonggegun/chatgpt-/assets/79897862/881b6d77-11de-44fe-8174-8585c6bed50b>
 
 
