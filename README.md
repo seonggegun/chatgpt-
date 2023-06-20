@@ -1,4 +1,4 @@
-![image](https://github.com/seonggegun/chatgpt-/assets/79897862/bbdf2485-132f-47aa-a06d-40cd84ed6566)# ChatGPT Tweet여론 긍부정분석 <img src =https://www.emoji.co.uk/files/emoji-one/animals-nature-emoji-one/1474-bird.png width="50" height="50">
+# ChatGPT Tweet여론 긍부정분석 <img src =https://www.emoji.co.uk/files/emoji-one/animals-nature-emoji-one/1474-bird.png width="50" height="50">
 
 
 ## 목적
