@@ -46,11 +46,11 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 | 3 | THRILLED to share that ChatGPT, our new model optimized for dialog, is now public, free, and accessible to everyone. https://t.co/dyvtHecYbd https://t.co/DdhzhqhCBX https://t.co/l8qTLure71 | good |
 | 4 | As of 2 minutes ago, @OpenAI released their new ChatGPT. \n\nAnd you can use it right now ?몙 https://t.co/VyPGPNw988 https://t.co/cSn5h6h1M1 |bad|
 |... | ... | ... |
-| 17335| positive | i love this speaker and love can take it anywh...	 |
-| 17336 | positive | i use it in my house easy to connect and loud ... |
-| 17337 | positive | the bass is good and the battery is amazing mu...	 |
-| 17338 | positive | love it |
-| 17339 | neutral | mono speaker	 |<br><br>
+| 219289| Other Software Projects Are Now Trying to Replicate ChatGPT https://t.co/6TDsIUokBI | i love this speaker and love can take it anywh...	 |
+| 219290 | I asked #ChatGPT to write a #NYE Joke for SEOs and it delivered: \n\nWhy did the SEO make a resolution to eat healthier in the New Year? \n\nBecause they wanted to rank higher on Google's search results for 'healthy habits'! #SEO #NewYear | good |
+| 219291 | chatgpt is being disassembled until it can only dissemble | bad	 |
+| 219292 | 2023 predictions by #chatGPT. Nothing really specific, just some trends from the past years. \nShould be around this topic, we will see in 364 days ?럦 https://t.co/4ZD3kpH0DC | bad |
+| 219293 | From ChatGPT, neat stuff https://t.co/qjjUF2Z2m0 | neutral	 |<br><br>
 <img src=https://github.com/seonggegun/chatgpt-/assets/79897862/1eef6de5-a245-4f1d-9076-554219990a0a><br>
 1. 2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다.<br> 그 잘못된 2084개의 데이터를 제거했고 neutral 데이터를 제거할것입니다.<br>
 2. oldlength는 원본데이터 텍스트 리뷰 길이에 대한 도수분포표입니다. <br> #, http:~, @ 와같은 태그와 링크글을 삭제할것입니다.
