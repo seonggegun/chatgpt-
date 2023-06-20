@@ -129,8 +129,16 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 모델 긍부정예측도 결과 0.81로 높게나옴을 알수있습니다.<br>
 <img src = https://github.com/seonggegun/chatgpt-/assets/79897862/881b6d77-11de-44fe-8174-8585c6bed50b>
 
-
-
+### 개발환경
+pycharm~= 2022.3.2
+python~=3.9
+tensorflow~=2.9.1
+matplotlib~=3.7.1
+pandas~=1.4.4
+numpy~=1.24.2
+torch~=1.12.1
+transformers~=4.21.2
+scikit-learn~=1.2.2
 <img src = https://github.com/seonggegun/chatgpt-/assets/79897862/3fe73401-0086-48c6-83f5-3c7b0f6cd95c><br>
 
 
