@@ -38,7 +38,19 @@ ChatGPT는 자연어 처리 분야에서 우수한 성능을 보이는 대화형
 ## 원시데이터
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <img src= "https://github.com/seonggegun/chatgpt-/assets/79897862/5e65bc7f-c10e-4e17-bcc2-2f5484abbf72">[출처2](#출처2)<br>
-
+| count| `tweets` | `labels` |
+| --- | --- | --- |
+| 0 | ChatGPT: Optimizing Language Models for Dialogue https://t.co/K9rKRygYyn @OpenAI | neutral |
+| 1 | Try talking with ChatGPT, our new AI system which is optimized for dialogue. Your feedback will help us improve it. https://t.co/sHDm57g3Kr	  | good	 |
+| 2 | neutral | it is so slow and lags find better option	 |
+| 3 | neutral | roller ball stopped working within months of m... |
+| 4 | neutral | i like the color and size but it few days out ...	 |
+|... | ... | ... |
+| 17335| positive | i love this speaker and love can take it anywh...	 |
+| 17336 | positive | i use it in my house easy to connect and loud ... |
+| 17337 | positive | the bass is good and the battery is amazing mu...	 |
+| 17338 | positive | love it |
+| 17339 | neutral | mono speaker	 |<br><br>
 <img src=https://github.com/seonggegun/chatgpt-/assets/79897862/1eef6de5-a245-4f1d-9076-554219990a0a><br>
 1. 2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다.<br> 그 잘못된 2084개의 데이터를 제거했고 neutral 데이터를 제거할것입니다.<br>
 2. oldlength는 원본데이터 텍스트 리뷰 길이에 대한 도수분포표입니다. <br> #, http:~, @ 와같은 태그와 링크글을 삭제할것입니다.
