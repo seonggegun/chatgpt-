@@ -75,7 +75,7 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>neutral, 이모지, 태그글, 링크글 제거</td>
     <td>엑셀,코렙</td>
 </table><br>
-1. 엑셀로 neutral 데이터및 잘못된라벨링 삭제.
+1. 엑셀로 neutral 데이터및 잘못된라벨링 삭제. <br>
 2. 코렙을 이용하여 이모지, 태그글, 링크글 제거.<br>
 
 | count| `cleaned_tweets` | `labels` |
