@@ -113,7 +113,8 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>93755</td>
 </table><br>
 
-
+1. 원본데이터와 비교해보면 태그(#, @)와 링크글 이모티콘을 제거해서 텍스트 리뷰길이 300이상이 거의 없어짐을 알수있습니다.
+2. 태그, 링크글로만 이뤄진 글도 삭제하여 bad 데이터와 good 데이터도 감소했음을 알수있습니다.
 
 전처리 과정 그림판으로 그려넣을것 ex)성찬
 
