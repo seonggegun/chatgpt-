@@ -62,11 +62,11 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 <table style="width:100%">
   <tr>
     <th>전처리과정</th>
-    <th>기술 설명</th> 
+    <th> 1. 기술 설명</th> 
     <th>사용한도구</th>
   </tr>
   <tr>
-    <td>데이터 수집</td>
+    <td> 2. 데이터 수집</td>
     <td>kaggle에서 수집 </td>
     <td>kaggle</td>
   </tr>
@@ -74,9 +74,13 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
     <td>데이터 전처리</td>
     <td>neutral, 이모지, 태그글, 링크글 제거</td>
     <td>엑셀,코렙</td>
+  </tr>
+   <tr>
+    <td>라벨링</td>
+    <td>0(good),1(bad)으로 나눔</td>
+    <td>엑셀,코렙</td>
+  </tr>
 </table><br>
-1. 엑셀로 neutral 데이터및 잘못된라벨링 삭제. <br>
-2. 코렙을 이용하여 이모지, 태그글, 링크글 제거.<br>
 
 | count| `cleaned_tweets` | `labels` |
 | --- | --- | --- |
