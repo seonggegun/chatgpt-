@@ -50,7 +50,8 @@ https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis <br>
 | 219290 | I asked #ChatGPT to write a #NYE Joke for SEOs and it delivered: \n\nWhy did the SEO make a resolution to eat healthier in the New Year? \n\nBecause they wanted to rank higher on Google's search results for 'healthy habits'! #SEO #NewYear | good |
 | 219291 | chatgpt is being disassembled until it can only dissemble | bad	 |
 | 219292 | 2023 predictions by #chatGPT. Nothing really specific, just some trends from the past years. \nShould be around this topic, we will see in 364 days ?럦 https://t.co/4ZD3kpH0DC | bad |
-| 219293 | From ChatGPT, neat stuff https://t.co/qjjUF2Z2m0 | neutral	 |<br><br>
+| 219293 | From ChatGPT, neat stuff https://t.co/qjjUF2Z2m0 | neutral	 |<br>
+
 <img src=https://github.com/seonggegun/chatgpt-/assets/79897862/1eef6de5-a245-4f1d-9076-554219990a0a><br>
 1. 2084개의 데이터 차이가 보이는데 그 이유는 저 원본데이터에서 긍부정 중립 라벨을 잘못해서입니다.<br> 그 잘못된 2084개의 데이터를 제거했고 neutral 데이터를 제거할것입니다.<br>
 2. oldlength는 원본데이터 텍스트 리뷰 길이에 대한 도수분포표입니다. <br> #, http:~, @ 와같은 태그와 링크글을 삭제할것입니다.
